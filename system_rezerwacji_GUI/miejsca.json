@@ -1,0 +1,402 @@
+[
+   {
+      "nr_miejsca": 1,
+      "rzad": 1,
+      "czy_wolne": true,
+      "cena": 300,
+      "dodatkowa_oplata": 100,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": true,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 2,
+      "rzad": 1,
+      "czy_wolne": true,
+      "cena": 300,
+      "dodatkowa_oplata": 100,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": true,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 3,
+      "rzad": 1,
+      "czy_wolne": true,
+      "cena": 300,
+      "dodatkowa_oplata": 100,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": true,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 4,
+      "rzad": 1,
+      "czy_wolne": true,
+      "cena": 300,
+      "dodatkowa_oplata": 100,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": true,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 5,
+      "rzad": 1,
+      "czy_wolne": true,
+      "cena": 300,
+      "dodatkowa_oplata": 100,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": true,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 6,
+      "rzad": 1,
+      "czy_wolne": true,
+      "cena": 300,
+      "dodatkowa_oplata": 100,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": true,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 7,
+      "rzad": 1,
+      "czy_wolne": true,
+      "cena": 300,
+      "dodatkowa_oplata": 100,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": true,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 8,
+      "rzad": 1,
+      "czy_wolne": true,
+      "cena": 300,
+      "dodatkowa_oplata": 100,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": true,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 9,
+      "rzad": 2,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 10,
+      "rzad": 2,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 11,
+      "rzad": 2,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 12,
+      "rzad": 2,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 13,
+      "rzad": 2,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 14,
+      "rzad": 2,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 15,
+      "rzad": 2,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 16,
+      "rzad": 2,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 17,
+      "rzad": 2,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 18,
+      "rzad": 3,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 19,
+      "rzad": 3,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 20,
+      "rzad": 3,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 21,
+      "rzad": 3,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 22,
+      "rzad": 3,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 23,
+      "rzad": 3,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 24,
+      "rzad": 3,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 25,
+      "rzad": 4,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": true,
+      "czy_vip": false,
+      "id_klienta": 10000,
+      "dodatkowe_udogodnienia": {
+         "Parking": false,
+         "Asystent": false
+      }
+   },
+   {
+      "nr_miejsca": 26,
+      "rzad": 4,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": true,
+      "czy_vip": false,
+      "id_klienta": 10000,
+      "dodatkowe_udogodnienia": {
+         "Parking": false,
+         "Asystent": false
+      }
+   },
+   {
+      "nr_miejsca": 27,
+      "rzad": 4,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": true,
+      "czy_vip": false,
+      "id_klienta": 10000,
+      "dodatkowe_udogodnienia": {
+         "Parking": false,
+         "Asystent": false
+      }
+   },
+   {
+      "nr_miejsca": 28,
+      "rzad": 4,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": true,
+      "czy_vip": false,
+      "id_klienta": 10000,
+      "dodatkowe_udogodnienia": {
+         "Parking": false,
+         "Asystent": false
+      }
+   },
+   {
+      "nr_miejsca": 29,
+      "rzad": 4,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": true,
+      "czy_vip": false,
+      "id_klienta": 10000,
+      "dodatkowe_udogodnienia": {
+         "Parking": false,
+         "Asystent": false
+      }
+   },
+   {
+      "nr_miejsca": 30,
+      "rzad": 4,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": true,
+      "czy_vip": false,
+      "id_klienta": 10000,
+      "dodatkowe_udogodnienia": {
+         "Parking": false,
+         "Asystent": false
+      }
+   },
+   {
+      "nr_miejsca": 31,
+      "rzad": 4,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": true,
+      "czy_vip": false,
+      "id_klienta": 10000,
+      "dodatkowe_udogodnienia": {
+         "Parking": false,
+         "Asystent": false
+      }
+   },
+   {
+      "nr_miejsca": 32,
+      "rzad": 4,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": true,
+      "czy_vip": false,
+      "id_klienta": 10000,
+      "dodatkowe_udogodnienia": {
+         "Parking": false,
+         "Asystent": false
+      }
+   },
+   {
+      "nr_miejsca": 33,
+      "rzad": 5,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 34,
+      "rzad": 5,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 35,
+      "rzad": 5,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 36,
+      "rzad": 5,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 37,
+      "rzad": 5,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 38,
+      "rzad": 5,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 39,
+      "rzad": 5,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   },
+   {
+      "nr_miejsca": 40,
+      "rzad": 5,
+      "czy_wolne": true,
+      "cena": 300,
+      "czy_dla_niepelnosprawnych": false,
+      "czy_vip": false,
+      "id_klienta": 10000
+   }
+]
